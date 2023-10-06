@@ -1,0 +1,34 @@
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\bin\Debug\Smart Car.dll
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\bin\Debug\Smart Car.pdb
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\bin\Debug\Smart_Car.Smart_Car.apk
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\bin\Debug\Smart_Car.Smart_Car-Signed.apk
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\bin\Debug\SQLite.Net.dll
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\Smart Car.dll
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\Smart Car.pdb
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\android\bin\Smart_Car.Smart_Car.apk
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\res\layout\main.xml
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\res\values\strings.xml
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\res\drawable\icon.png
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\res\drawable\car.png
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\R.cs.flag
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\uploadflags.txt
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\obj\Debug\Smart Car.dll.mdb
+C:\Users\Rasool\Desktop\Smart Car\Smart Car\bin\Debug\Smart Car.dll.mdb
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart Car.dll
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart Car.pdb
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart_Car.Smart_Car.apk
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart_Car.Smart_Car-Signed.apk
+D:\Code\Smart Car\Smart Car\bin\Debug\SQLite.Net.dll
+D:\Code\Smart Car\Smart Car\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\Smart Car.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\Smart Car.pdb
+D:\Code\Smart Car\Smart Car\obj\Debug\android\bin\Smart_Car.Smart_Car.apk
+D:\Code\Smart Car\Smart Car\obj\Debug\res\layout\main.xml
+D:\Code\Smart Car\Smart Car\obj\Debug\res\values\strings.xml
+D:\Code\Smart Car\Smart Car\obj\Debug\res\drawable\icon.png
+D:\Code\Smart Car\Smart Car\obj\Debug\res\drawable\car.png
+D:\Code\Smart Car\Smart Car\obj\Debug\R.cs.flag
+D:\Code\Smart Car\Smart Car\obj\Debug\uploadflags.txt
+D:\Code\Smart Car\Smart Car\obj\Debug\Smart Car.dll.mdb
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart Car.dll.mdb

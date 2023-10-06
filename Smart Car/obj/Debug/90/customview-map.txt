@@ -1,0 +1,11 @@
+Button;obj\Debug\90\res\layout\main.xml
+EditText;obj\Debug\90\res\layout\main.xml
+ImageView;obj\Debug\90\res\layout\main.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+resources;D:\Code\Smart Car\Smart Car\obj\Debug\90\lp\0\jl\res\values\strings.xml
+resources;obj\Debug\90\res\values\strings.xml
+ScrollView;obj\Debug\90\res\layout\main.xml
+string;D:\Code\Smart Car\Smart Car\obj\Debug\90\lp\0\jl\res\values\strings.xml
+string;obj\Debug\90\res\values\strings.xml
+Switch;obj\Debug\90\res\layout\main.xml
+TextView;obj\Debug\90\res\layout\main.xml

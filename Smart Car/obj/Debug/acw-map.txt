@@ -1,0 +1,12 @@
+Smart_Car.MainActivity, Smart Car;md5424029b6b19ea93ba549cd5359efd21e.MainActivity
+Smart_Car.MainActivity, Smart Car, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5424029b6b19ea93ba549cd5359efd21e.MainActivity
+Smart_Car.MainActivity;md5424029b6b19ea93ba549cd5359efd21e.MainActivity
+smart_car.MainActivity;md5424029b6b19ea93ba549cd5359efd21e.MainActivity
+Smart_Car.MainActivity/SmsReceiver, Smart Car;md5424029b6b19ea93ba549cd5359efd21e.MainActivity_SmsReceiver
+Smart_Car.MainActivity+SmsReceiver, Smart Car, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5424029b6b19ea93ba549cd5359efd21e.MainActivity_SmsReceiver
+Smart_Car.MainActivity.SmsReceiver;md5424029b6b19ea93ba549cd5359efd21e.MainActivity_SmsReceiver
+smart_car.MainActivity_SmsReceiver;md5424029b6b19ea93ba549cd5359efd21e.MainActivity_SmsReceiver
+Smart_Car.NotificationsCommand, Smart Car;md5424029b6b19ea93ba549cd5359efd21e.NotificationsCommand
+Smart_Car.NotificationsCommand, Smart Car, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5424029b6b19ea93ba549cd5359efd21e.NotificationsCommand
+Smart_Car.NotificationsCommand;md5424029b6b19ea93ba549cd5359efd21e.NotificationsCommand
+smart_car.NotificationsCommand;md5424029b6b19ea93ba549cd5359efd21e.NotificationsCommand

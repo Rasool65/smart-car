@@ -1,0 +1,123 @@
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart Car.dll
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart Car.pdb
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart_Car.Smart_Car.apk
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart_Car.Smart_Car-Signed.apk
+D:\Code\Smart Car\Smart Car\bin\Debug\Smart Car.dll.mdb
+D:\Code\Smart Car\Smart Car\bin\Debug\SQLite.Net.dll
+D:\Code\Smart Car\Smart Car\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Code\Smart Car\Smart Car\obj\Debug\90\build.props
+D:\Code\Smart Car\Smart Car\obj\Debug\90\adb.props
+D:\Code\Smart Car\Smart Car\obj\Debug\90\Smart Car.csprojAssemblyReference.cache
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\resourcepaths.cache
+D:\Code\Smart Car\Smart Car\obj\Debug\90\res.flag
+D:\Code\Smart Car\Smart Car\obj\Debug\90\flata\dae0dd1cfd5f43f910e0c9696443c650c6470d19.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\flata\dae0dd1cfd5f43f910e0c9696443c650c6470d19.flata
+D:\Code\Smart Car\Smart Car\obj\Debug\90\flata\compiled.flata
+D:\Code\Smart Car\Smart Car\obj\Debug\90\R.txt
+D:\Code\Smart Car\Smart Car\obj\Debug\90\R.cs.flag
+D:\Code\Smart Car\Smart Car\obj\Debug\90\Smart Car.csproj.CopyComplete
+D:\Code\Smart Car\Smart Car\obj\Debug\90\Smart Car.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\Smart Car.pdb
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\bin\Smart_Car.Smart_Car.apk
+D:\Code\Smart Car\Smart Car\obj\Debug\90\res\layout\main.xml
+D:\Code\Smart Car\Smart Car\obj\Debug\90\res\values\strings.xml
+D:\Code\Smart Car\Smart Car\obj\Debug\90\res\drawable\icon.png
+D:\Code\Smart Car\Smart Car\obj\Debug\90\res\drawable\car.png
+D:\Code\Smart Car\Smart Car\obj\Debug\90\uploadflags.txt
+D:\Code\Smart Car\Smart Car\obj\Debug\90\resolvedassemblies.hash
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\Smart Car.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\Java.Interop.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\Mono.Android.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\mscorlib.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\SQLite.Net.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\SQLite.Net.Platform.XamarinAndroid.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Core.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Runtime.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Xml.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Xml.Linq.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Net.Http.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Drawing.Common.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Collections.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Reflection.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Diagnostics.Debug.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Runtime.Extensions.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Linq.Expressions.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Linq.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Reflection.Extensions.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Globalization.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Threading.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Text.Encoding.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\Mono.Security.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.Numerics.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\Mono.Android.pdb
+D:\Code\Smart Car\Smart Car\obj\Debug\90\linksrc\Smart Car.dll.mdb
+D:\Code\Smart Car\Smart Car\obj\Debug\90\link.flag
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\Java.Interop.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\Mono.Android.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\Mono.Security.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\mscorlib.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\Smart Car.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\Smart Car.dll.mdb
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\SQLite.Net.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Collections.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Core.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Globalization.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Linq.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Numerics.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Reflection.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Runtime.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Text.Encoding.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Threading.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Xml.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.jm.x86.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.mj.x86.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\assets\machine.config
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\bin\mono.android.jar
+D:\Code\Smart Car\Smart Car\obj\Debug\90\static.flag
+D:\Code\Smart Car\Smart Car\obj\Debug\90\buildid.txt
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\src\md54be943b018a0d1f578058f15a2adb85a\MainActivity.java
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\src\md54be943b018a0d1f578058f15a2adb85a\MainActivity_SmsReceiver.java
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\src\md54be943b018a0d1f578058f15a2adb85a\NotificationsCommand.java
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\bin\packaged_resources
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\src\smart_car\smart_car\R.java
+D:\Code\Smart Car\Smart Car\obj\Debug\90\android\bin\classes.dex
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\Code\Smart Car\Smart Car\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
